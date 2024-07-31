@@ -2,9 +2,11 @@
 
 ## Overview
 
-Follow these steps to set up and run the project.
+This project is a real-time chat application with user connection requests. It includes a Django backend with WebSocket support and a React frontend.
 
 ### Getting started
+
+Follow these steps to set up and run the project.
 
 #### 1. Clone this repo on your local.
 
